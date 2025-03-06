@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohini Kathrotiya</h1>
-<h3 align="center">Machine Learning Engineer | LLM Practitioner | AI Enthusiast</h3>
+<h3 align="center">Machine Learning Engineer | LLM Practitioner | AI Enthusiast | Data Analyst</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohinikathro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
