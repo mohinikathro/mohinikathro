@@ -2,7 +2,7 @@
 <h3 align="center">Machine Learning Engineer | LLM Practitioner | AI Enthusiast | Data Analyst</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohinikathro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/mohinikathro/](https://www.linkedin.com/in/mohini-kathrotiya/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://huggingface.co/YOUR-HF-USERNAME" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://YOUR-PORTFOLIO-LINK.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website-blueviolet?style=for-the-badge" /></a>
   <a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
