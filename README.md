@@ -5,7 +5,8 @@
   <a href="https://www.linkedin.com/in/mohini-kathrotiya/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://huggingface.co/Mohinikathro" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&logoColor=black" /></a>
   <a href="https://mohinikathro38.github.io/Portfolio1/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-website-blueviolet?style=for-the-badge" /></a>
-  <a href="mailto:kathrotiyamohini@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:kathrotiyamohini@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-kathrotiyamohini@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
