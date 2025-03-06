@@ -14,7 +14,7 @@
 - 🌟 Passionate about solving real-world problems with **Machine Learning** and **Natural Language Processing**.
 - 🤖 Currently focused on **LLMs**, **AI content detection**, and **transformers**.
 - 🛠️ Love building innovative AI applications from scratch to deployment.
-- 📄 Know more about me: [Your Portfolio](https://YOUR-PORTFOLIO-LINK.com)
+- 📄 Know more about me: [Portfolio](https://mohinikathro38.github.io/Portfolio1/)
 
 ---
 
